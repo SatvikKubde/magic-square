@@ -1,4 +1,14 @@
+# magic_square.py
+# Solver for the partially filled 3x3 magic square
+
 def solve():
+    # Derived solution for given partially-filled 3x3
+    # Grid:
+    # 5 _ _
+    # _ 6 2
+    # 3 8 _
+    #
+    # Unique integer solution exists.
     d = 10
     a = d - 6
     b = d - 1
