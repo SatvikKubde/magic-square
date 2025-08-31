@@ -22,6 +22,7 @@ def solve():
 
 if __name__ == "__main__":
     grid, s = solve()
-    print("Magic sum:", s)
+    print("Magic Square Solution (Sum =", s, ")")
     for row in grid:
         print(row)
+
