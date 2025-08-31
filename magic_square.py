@@ -1,5 +1,4 @@
 # magic_square.py
-# Solver for the partially filled 3x3 magic square
 
 def solve():
     # Derived solution for given partially-filled 3x3
